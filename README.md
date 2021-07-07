@@ -16,11 +16,10 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://novatorem-xi-ruddy.vercel.app/api/spotify" alt="leanloia Spotify Playing" width="350" />](https://open.spotify.com/user/11102337731?si=d8c97d61708a41a3)
 
 <br />
 
-[![Spotify](https://novatorem-xi-ruddy.vercel.app/api/spotify)](https://open.spotify.com/user/11102337731?si=d8c97d61708a41a3)
 
 ---
 
