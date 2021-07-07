@@ -12,14 +12,6 @@
 - 🥅 2021 Goals: travel
 - ⚡ Fun fact: I love music
 
---- 
-
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-xi-ruddy.vercel.app/api/spotify" alt="leanloia Spotify Playing" width="350" />](https://open.spotify.com/user/11102337731?si=d8c97d61708a41a3)
-
-<br />
-
 
 ---
 
