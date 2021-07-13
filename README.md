@@ -5,7 +5,7 @@
 
 
 
-## I'm a Argentinian, Jr. developer and photograph, living in Barcelona!!
+## I'm a Argentinian, Jr. developer and photographer, living in Barcelona!!
 
 - 🌱 I’m currently learning about everything (like always) 🤣
 - 👯 I’m looking to collaborate with other developers
